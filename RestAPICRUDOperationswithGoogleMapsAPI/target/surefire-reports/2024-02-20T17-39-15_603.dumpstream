@@ -1,0 +1,5 @@
+# Created at 2024-02-20T17:39:17.576
+Boot Manifest-JAR contains absolute paths in classpath 'D:\RESTAPI&GoogleMAP\RestAPICRUDOperationswithGoogleMapsAPI\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
